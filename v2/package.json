@@ -19,7 +19,7 @@
         "pnpm": "8.10.5"
     },
     "dependencies": {
-        "@apollo/client": "^3.5.10",
+        "@apollo/client": "^3.14.0",
         "@ensdomains/eth-ens-namehash": "^2.0.15",
         "@graphql-codegen/add": "^3.1.1",
         "@graphql-codegen/near-operation-file-preset": "^2.2.9",
